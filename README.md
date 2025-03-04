@@ -1,2 +1,1 @@
-# Algoritmos-de-Clasificacion
-Este proyecto presenta una comparación exhaustiva de diversos algoritmos de clasificación aplicados a múltiples conjuntos de datos.
+Este proyect presenta una comparación exhaustiva de diversos algoritmos de clasificación aplicados a múltiples conjuntos de datos. Se evalúan técnicas como Máquinas de Vectores de Soporte (SVM), K-Vecinos Más Cercanos (KNN), Árboles de Decisión y Bosques Aleatorios, entre otros. Para cada algoritmo, se analizan métricas de rendimiento en distintos escenarios, proporcionando una visión detallada de su eficacia y aplicabilidad. Este análisis es fundamental para seleccionar el modelo más adecuado según las características específicas de cada conjunto de datos.  
